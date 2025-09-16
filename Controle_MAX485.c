@@ -26,8 +26,8 @@
 #define LED_G       11
 
 //Botões
-#define bot_A       5 //Botão do pânico
-#define bot_B       6 //Campainha
+#define bot_A       5 //Botão para posição 1
+#define bot_B       6 //Botão para posição 2
 
 
 
